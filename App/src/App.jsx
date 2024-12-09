@@ -96,7 +96,7 @@ const App = () => {
           selectedChatindex == null ?
             <div className="md:flex justify-center hidden items-center h-screen">
               <h1 className="text-3xl text-center">
-                Welcome to Ichat Messaging Duniya
+                Welcome to Real Time Chatting Duniya
                 <span role="img" aria-label="heart emoji"> ❤️❤️❤️❤️❤️</span>
               </h1>
             </div>
